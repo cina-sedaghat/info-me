@@ -1,5 +1,0 @@
-# robots.txt for Cina Sedaghat Portfolio
-User-agent: *
-Allow: /
-
-Sitemap: https://eifatech.ir/sitemap.xml
